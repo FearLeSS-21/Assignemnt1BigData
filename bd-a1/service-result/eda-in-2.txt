@@ -1,0 +1,9 @@
+Mean of each numerical column:
+PassengerId    23.294330
+Survived       23.392857
+Pclass         23.044153
+Age            23.245224
+SibSp          23.087860
+Parch          23.069688
+Fare           23.080937
+dtype: float64
