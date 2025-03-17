@@ -66,9 +66,9 @@ This script will:
 
 ### **Push Docker Image to Docker Hub**
 ```bash
-docker tag bd-a1-image <your-dockerhub-username>/bd-a1-image
+docker tag bd-a1-image zeyadwawe1/bd-a1-image 
 docker login
-docker push <your-dockerhub-username>/bd-a1-image
+docker push zeyadwawe1/bd-a1-image
 ```
 
 ### **Push Project Files to GitHub**
