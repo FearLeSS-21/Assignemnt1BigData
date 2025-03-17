@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Assignemnt1BigData
 =======
 # Data Processing Pipeline using Docker
