@@ -80,7 +80,3 @@ git branch -M main
 git remote add origin <your-github-repo-url>
 git push -u origin main
 ```
-
----
-This completes the Docker-based data processing pipeline setup and execution. 🚀
->>>>>>> 3c0056b (Initial commit)
